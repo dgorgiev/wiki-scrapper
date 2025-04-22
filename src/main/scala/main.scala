@@ -6,7 +6,7 @@ import scala.util.{Failure, Success, Try}
 val LINK_HEADER = "https://en.wikipedia.org"
 val PHILOSOPHY_URI: URI = URI("https://en.wikipedia.org/wiki/Philosophy")
 
-val TARGET_LINK = "https://en.wikipedia.org/wiki/Northern_pike"
+val TARGET_LINK = "https://en.wikipedia.org/wiki/Cake"
 
 @main
 def main(): Unit =
