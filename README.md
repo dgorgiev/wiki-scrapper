@@ -1,7 +1,7 @@
 # Wiki scrapper
 
 ## About this project
-This code is not very good and was just a fun test for me.
+This code is not particularly good and was just a fun test for me.
 My goal was to write a simple code that interacts with the internet using and learning a new API.
 
 ## Concept
