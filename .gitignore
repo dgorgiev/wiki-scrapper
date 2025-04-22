@@ -1,0 +1,13 @@
+# sbt and Scala
+target/
+project/target/
+project/project/
+.idea/
+.bsp/
+.metals/
+*.class
+*.tasty
+
+# System files
+.DS_Store
+Thumbs.db
