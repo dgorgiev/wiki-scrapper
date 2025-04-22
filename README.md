@@ -1,4 +1,4 @@
-# Wiki scrapper
+# Wiki scraper
 
 ## About this project
 This code is not particularly good and was just a fun test for me.
